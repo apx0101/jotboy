@@ -1,7 +1,7 @@
 # jotboy
 
-A two-panel ncurses task outliner. The left panel holds top-level task lists;
-the right panel is a word-wrapping text editor whose lines form a task tree,
+A two-panel text editor to aid task management, in ncurses. The left panel holds top-level 
+task lists, and the right panel is a word-wrapping text editor whose lines form a task tree,
 with nesting expressed as a two-space indent.
 
 New here? Read **[QUICKSTART.md](QUICKSTART.md)** — this file is the full
